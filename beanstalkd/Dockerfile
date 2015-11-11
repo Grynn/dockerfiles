@@ -1,4 +1,4 @@
-FROM debian:wheezy
+FROM grynn/ubuntu
 MAINTAINER Johannes Schickling "schickling.j@gmail.com"
 
 ADD install.sh install.sh
